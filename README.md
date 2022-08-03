@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dglnyc
 - 👀 I’m interested in ... life
 - 🌱 I’m currently learning ... about life
-- 💞️ I’m looking to collaborate on ... aspects of life and living
+- 💞️ I’m looking to collaborate on ... interesting projects
 - 📫 How to reach me ... tbd
 
 <!---
